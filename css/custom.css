@@ -1,0 +1,43 @@
+
+.navbar-default {
+	margin: 0;
+	opacity: 0.9;
+}
+
+.jumbotron2 {
+	background-image: url(../img/image1.png);
+	background-size: cover;
+    background-repeat: repeat;
+    height: 700px;
+    padding: 80px 40px;
+    margin: 0;
+    font-size: 20px;
+}
+
+.section0 {
+	background-color: #fff;
+	color: #000;
+	font-size: 14px;
+	padding: 40px 10px;
+}
+
+.section1 {
+	background-color: #26b3f3;
+	color: #fff;
+	font-size: 14px;
+	padding: 40px 10px;
+}
+
+.section2 {
+	background-color: #093e56;
+	color: #fff;
+	font-size: 14px;
+	padding: 40px 10px;
+}
+
+.footer {
+	background-color: #041c27;
+	color: #fff;
+	font-size: 13px;
+	padding: 60px 10px;
+}
